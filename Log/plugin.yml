@@ -1,0 +1,6 @@
+name: Log
+version: "0.1"
+author: Byte
+main: Log\LogMain
+description: "This is LogMain"
+api: "3.22.2"
